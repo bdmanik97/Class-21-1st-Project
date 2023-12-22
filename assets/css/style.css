@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.bg-custom{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.nav-img{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+ul li{
+    list-style: none;
+    margin-top: 15px;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.text-decoration{
+    text-decoration: none;
+}
+
+.ft-background{
+    
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(78,219,149,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+span{
+    color: white;
+}
+
+.footer-nav {
+    text-decoration: none;
+    display: block;
+    font-size: 23px;
+
+}
